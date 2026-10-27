@@ -6,7 +6,7 @@ reports, tests, docs, benchmarks, and code.
 ## Getting started
 
 ```
-git clone https://github.com/adalinxx/swift-quic
+git clone https://github.com/0xLattice/swift-quic
 cd swift-quic
 SWIFT_CERTIFICATES_ALLOW_SWIFT_CRYPTO_BETA=1 swift test
 ```
