@@ -72,8 +72,8 @@ split by who can move each item.
 ## Upstream bugs: found, fixed in our forks, PRs prepared
 
 We found three bugs in the upstream stack, **fixed them in maintained forks
-that this package now pins** (`adalinxx/swift-nio-quic`,
-`adalinxx/swift-network-evolution`), and prepared upstream pull requests —
+that this package now pins** (`0xLattice/swift-nio-quic`,
+`0xLattice/swift-network-evolution`), and prepared upstream pull requests —
 see [docs/upstream-issues/](docs/upstream-issues/):
 
 1. Peer `RESET_STREAM` surfacing as a raw `NetworkError` instead of

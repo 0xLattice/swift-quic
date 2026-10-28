@@ -8,7 +8,7 @@ tagging; see [ROADMAP.md](ROADMAP.md).)
 ## Reporting a vulnerability
 
 Please report suspected vulnerabilities privately via
-[GitHub Security Advisories](https://github.com/adalinxx/swift-quic/security/advisories/new)
+[GitHub Security Advisories](https://github.com/0xLattice/swift-quic/security/advisories/new)
 ("Report a vulnerability"). Do not open a public issue.
 
 You can expect an acknowledgement within 7 days. Fixes are coordinated

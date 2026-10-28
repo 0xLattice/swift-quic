@@ -1,7 +1,7 @@
 # swift-quic
 
-[![CI](https://github.com/adalinxx/swift-quic/actions/workflows/ci.yml/badge.svg)](https://github.com/adalinxx/swift-quic/actions/workflows/ci.yml)
-[![Docs](https://img.shields.io/badge/docs-DocC-blue)](https://adalinxx.github.io/swift-quic/documentation/quic/)
+[![CI](https://github.com/0xLattice/swift-quic/actions/workflows/ci.yml/badge.svg)](https://github.com/0xLattice/swift-quic/actions/workflows/ci.yml)
+[![Docs](https://img.shields.io/badge/docs-DocC-blue)](https://0xlattice.github.io/swift-quic/documentation/quic/)
 [![License](https://img.shields.io/badge/license-Apache--2.0-lightgrey)](LICENSE.txt)
 
 An easy-to-use, fully-tested Swift QUIC library built on Apple's
@@ -51,7 +51,7 @@ verification, sensible transport parameters).
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/adalinxx/swift-quic", from: "0.2.0"),
+    .package(url: "https://github.com/0xLattice/swift-quic", from: "0.2.0"),
 ]
 // target dependencies: .product(name: "QUIC", package: "swift-quic")
 ```
